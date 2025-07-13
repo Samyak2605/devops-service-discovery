@@ -1,4 +1,4 @@
- DevOps Service Discovery using Docker Compose + Consul
+DevOps Service Discovery using Docker Compose + Consul
 
 This project demonstrates a simple microservices architecture using **Node.js** services (`service-a`, `service-b`, `service-c`) with an **API Gateway** and **Consul** for service discovery, all containerized using **Docker Compose**.
 
@@ -111,3 +111,5 @@ bash
 Copy
 Edit
 docker-compose logs -f
+
+This is the project link: https://roadmap.sh/projects/service-discovery
